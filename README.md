@@ -1,6 +1,6 @@
 # Competition between slicing and buckling underlies the erratic nature of paper cuts
 
-Pgysical Review E (2024)
+Physical Review E (2024)
 
 Sif Fink Arnbjerg-Nielsen, Matthew D. Biviano, and Kaare H. Jensen
 
