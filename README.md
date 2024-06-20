@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/Jensen-Lab/AUTOPLANT/blob/main/Bae2021a.jpg)
 # Competition between slicing and buckling underlies the erratic nature of paper cuts
 
 Physical Review E (2024)
