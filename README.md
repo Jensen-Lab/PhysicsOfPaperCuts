@@ -1,4 +1,4 @@
-![alt text](https://github.com/Jensen-Lab/PhysicsOfPaperCuts/blob/visual%20materials/PaperCuts.jpg)
+![alt text](https://github.com/Jensen-Lab/PhysicsOfPaperCuts/blob/main/visual%20materials/PaperCuts.jpg)
 
 # Competition between slicing and buckling underlies the erratic nature of paper cuts
 
