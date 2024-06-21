@@ -13,4 +13,4 @@ Email for correspondence: khjensen@fysik.dtu.dk
 ## References
 - [1] Mirsky, S., The unkindest cut, Scientific American 306, 80, 2012
 - [2] Reyssat, E., Tallinen, T., Le Merrer, M., & Mahadevan, L. Slicing softly with shear. Physical review letters, 109(24), 244301, 2012
-- [3] Arnbjerg-Nielsen S. F., Biviano M. D., & Jensen, K. H., Competition between slicing and buckling underlies the erratic nature of paper cuts, Physical Review E (2024) [WWW](https://journals.aps.org/pre/accepted/aa072Kc5A071ae0708c39799a466b7d26e3ac2a0e)
+- [3] Arnbjerg-Nielsen S. F., Biviano M. D., & Jensen, K. H., Competition between slicing and buckling underlies the erratic nature of paper cuts, Physical Review E (2024) [accepted preprint](PressKit/manuscript.pdf)
