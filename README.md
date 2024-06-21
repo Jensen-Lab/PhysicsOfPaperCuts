@@ -1,5 +1,3 @@
-![alt text](img/Papercut.png)
-
 [![Everything Is AWESOME](img/thumbnail.png)](https://www.youtube.com/watch?v=hObceaZOuxI "Everything Is AWESOME")
 
 # THE PAPER CUT PARADOX: Explaining why thin paper does not cut
