@@ -1,4 +1,4 @@
-![alt text](https://github.com/Jensen-Lab/PhysicsOfPaperCuts/blob/main/img/PaperCut.png)
+![alt text](img/Papercut.png)
 
 # THE PAPER CUT PARADOX: Explaining why thin paper does not cut
 Paper cuts are a common injury that can cause significant pain and discomfort [1]. Surprisingly, the physics underpinning a thin flexible sheet of paper slicing into soft tissues remains unresolved. (Other cases, such as chess-wire cutters, have been described; e.g., [2].) In particular, the unpredictable occurrence of paper cuts, often restricted to a limited thickness range, has not been explained. Here, we visualized and quantified the motion, deformation, and stresses during paper cuts, uncovering a remarkably complex relationship between cutting, geometry, and material properties [3]. A model based on the hypothesis that competition between slicing and buckling controls the probability of initiating a paper cut was developed and successfully validated. 
