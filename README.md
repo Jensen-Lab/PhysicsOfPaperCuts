@@ -3,8 +3,9 @@
 # Competition between slicing and buckling underlies the erratic nature of paper cuts
 Sif Fink Arnbjerg-Nielsen, Matthew D. Biviano, and Kaare H. Jensen
 Department of Physics, Technical University of Denmark, DK-2800 Kgs. Lyngby
-Physical Review E (2024) 
-E-mail for correspondence: khjensen@fysik.dtu.dk https://journals.aps.org/pre/accepted/aa072Kc5A071ae0708c39799a466b7d26e3ac2a0e
+Physical Review E (2024) [WWW](https://journals.aps.org/pre/accepted/aa072Kc5A071ae0708c39799a466b7d26e3ac2a0e)
+E-mail for correspondence: khjensen@fysik.dtu.dk 
+
 
 # English
 While paper cuts are typically a minor nuisance, they can lead to life-threatening microbial infections. The physical processes that determine whether paper cuts into the skin, however, remain poorly understood. To explore skin-paper interactions, we designed an experiment in which a piece of paper contacts an artificial finger made from ballistic gelatin. Our experiments indicate that lacerations are physically impossible for very thin and very thick paper, meaning a successful paper cut is only physically possible inside a relatively narrow range of thicknesses for a given angle. We design a paper-based scalpel based on the most cutting-efficient paper.
