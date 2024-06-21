@@ -8,7 +8,7 @@ This explains why paper with a specific thickness is most hazardous (≈65 μm, 
 Email for correspondence: khjensen@fysik.dtu.dk 
 
 ## Press kit
-[Press Kit](PressKit)
+Pleas access the preprint, videos, power point, etc.  [here](PressKit).
 
 ## References
 - [1] Mirsky, S., The unkindest cut, Scientific American 306, 80, 2012
