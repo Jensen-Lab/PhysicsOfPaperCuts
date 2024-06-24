@@ -10,7 +10,7 @@ Finally, we developed the _Papermachete_, a cost-effective paper-based scalpel b
 
 Email for correspondence: khjensen@fysik.dtu.dk 
 
-Link to publication: (HTTP://journals.aps.org/pre/accepted/aa072Kc5A071ae0708c39799a466b7d26e3ac2a0e). Please copy-paste link if you get a 403 error.
+[Link to publication](http://journals.aps.org/pre/accepted/aa072Kc5A071ae0708c39799a466b7d26e3ac2a0e). 
 
 ## Press kit
 Please access the preprint, videos, power point, etc.  [here](PressKit).
