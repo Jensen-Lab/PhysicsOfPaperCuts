@@ -15,7 +15,7 @@ Email for correspondence: khjensen@fysik.dtu.dk
 [Link to publication](http://journals.aps.org/pre/accepted/aa072Kc5A071ae0708c39799a466b7d26e3ac2a0e). 
 
 ## Press kit
-Please access the preprint, videos, power point, etc.  [here](PressKit).
+Please access the preprint, images, and videos [here](PressKit).
 
 ## References
 - [1] Mirsky, S., The unkindest cut, Scientific American 306, 80, 2012
