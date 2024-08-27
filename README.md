@@ -26,8 +26,11 @@ Finally, we developed the _Papermachete_, a cost-effective paper-based scalpel b
 
 
 ## Publication
-[Preprint](PressKit/manuscript.pdf)
+[Manuscript](https://github.com/Jensen-Lab/PhysicsOfPaperCuts/blob/main/Arnbjerg-NielsenPapercut2024.pdf)
 [Journal website](http://journals.aps.org/pre/accepted/aa072Kc5A071ae0708c39799a466b7d26e3ac2a0e). 
+
+## Errata
+Table I (Caption): "MPa" -> "GPa" (27 Aug 2024)
 
 ## Contact
 Kaare H. Jensen, Department of Physics, Technical University of Denmark
