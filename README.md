@@ -8,8 +8,22 @@ Our experiments revealed that competition between slicing and buckling underlies
 Finally, we developed the _Papermachete_, a cost-effective paper-based scalpel based on our results. It uses scrap paper blades and can easily cut into vegetables and meat. To 3D print your own, use the files accessible [here](https://github.com/Jensen-Lab/PhysicsOfPaperCuts/tree/main/3DPrint).
 
 ## Press coverage
-[31 July 2024: Science News](https://www.sciencenews.org/article/paper-cut-physics)
-[23 August 2024: Nature, Research Highlights] (https://www.nature.com/articles/d41586-024-02297-6)
+[August 26th 2024: Daily Mail](https://www.dailymail.co.uk/sciencetech/article-13739439/Scientists-reveal-paper-painful-cuts.html)
+
+[August 23rd 2024: Nature, Research Highlights](https://www.nature.com/articles/d41586-024-02297-6)
+
+[August 16th 2024: Ingeniøren](https://ing.dk/artikel/vaerd-vide-pas-paa-ingenioeren-kan-let-lave-snitsaar-i-din-finger)
+
+[August 12th 2024: ABC Melbourne, Drive](https://www.abc.net.au/listen/programs/melbourne-drive/drive/104188682)
+
+[August 6th 2024: The Morning Show](https://www.facebook.com/watch/?v=430936466599208)
+
+[July 31st 2024: Science News](https://www.sciencenews.org/article/paper-cut-physics)
+
+[July 1st 2024: Metro.co.uk](https://metro.co.uk/2024/07/01/worst-paper-paper-cuts-revealed-can-even-slice-chicken-21139872/)
+
+[Jun 28th 2024: CBC Radio, As It Happens](https://www.cbc.ca/listen/live-radio/1-2-as-it-happens/clip/16078411-point-counterpoint-return)
+
 
 ## Publication
 [Preprint](PressKit/manuscript.pdf)
