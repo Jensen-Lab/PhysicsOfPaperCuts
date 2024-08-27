@@ -18,12 +18,15 @@ Finally, we developed the _Papermachete_, a cost-effective paper-based scalpel b
 
 [August 6th 2024: The Morning Show](https://www.facebook.com/watch/?v=430936466599208)
 
+[August 3rd 2024: New York Post](https://nypost.com/2024/08/03/lifestyle/scientists-have-uncovered-the-physics-behind-paper-cuts/)
+
 [July 31st 2024: Science News](https://www.sciencenews.org/article/paper-cut-physics)
 
 [July 1st 2024: Metro.co.uk](https://metro.co.uk/2024/07/01/worst-paper-paper-cuts-revealed-can-even-slice-chicken-21139872/)
 
-[Jun 28th 2024: CBC Radio, As It Happens](https://www.cbc.ca/listen/live-radio/1-2-as-it-happens/clip/16078411-point-counterpoint-return)
+[Jun 28th 2024: New Scientist](https://www.newscientist.com/article/2437150-physicists-determined-the-paper-most-likely-to-give-you-a-paper-cut/)
 
+[Jun 28th 2024: CBC Radio, As It Happens](https://www.cbc.ca/listen/live-radio/1-2-as-it-happens/clip/16078411-point-counterpoint-return)
 
 ## Publication
 [Manuscript](https://github.com/Jensen-Lab/PhysicsOfPaperCuts/blob/main/Arnbjerg-NielsenPapercut2024.pdf)
