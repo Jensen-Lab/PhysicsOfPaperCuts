@@ -9,6 +9,7 @@ Finally, we developed the _Papermachete_, a cost-effective paper-based scalpel b
 
 ## Press coverage
 [31 July 2024: Science News](https://www.sciencenews.org/article/paper-cut-physics)
+[23 August 2024: Nature, Research Highlights] (https://www.nature.com/articles/d41586-024-02297-6)
 
 ## Publication
 [Preprint](PressKit/manuscript.pdf)
