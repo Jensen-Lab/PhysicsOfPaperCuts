@@ -8,7 +8,7 @@ Our experiments revealed that competition between slicing and buckling underlies
 Finally, we developed the _Papermachete_, a cost-effective paper-based scalpel based on our results. It uses scrap paper blades and can easily cut into vegetables and meat. To 3D print your own, use the files accessible [here](https://github.com/Jensen-Lab/PhysicsOfPaperCuts/tree/main/3DPrint).
 
 ## Press coverage
-[August 28th 2024: Nature Briefing](https://www.nature.com/articles/d41586-024-02806-7)
+[August 28th 2024: Nature Podcast](https://www.nature.com/articles/d41586-024-02806-7)
 
 [August 28th 2024: NPR](https://www.npr.org/2024/08/28/nx-s1-5090010/the-physics-behind-a-very-annoying-thing-that-could-ever-happen-to-you-a-paper-cut)
 
