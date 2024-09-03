@@ -36,6 +36,18 @@ Finally, we developed the _Papermachete_, a cost-effective paper-based scalpel b
 
 [July 31st 2024: Science News](https://www.sciencenews.org/article/paper-cut-physics)
 
+[July 22nd 2024: Economy Chosun](https://economychosun.com/site/data/html_dir/2024/07/19/2024071900032.html)
+
+[July 19th 2024: Huffington Post, Korea](https://www.huffingtonpost.kr/news/articleView.html?idxno=225660)
+
+[July 13th 2024: Health Chosun](https://health.chosun.com/site/data/html_dir/2024/07/11/2024071101712.html)
+
+[July 9th 2024: Hankyoreh Newsletter](https://www.hani.co.kr/arti/science/science_general/1148276.html)
+
+[July 1st 2024: Herald Economy](https://news.heraldcorp.com/view.php?ud=20240701050718)
+
+[July 1st 2024: Chosun Biz](https://biz.chosun.com/science-chosun/science/2024/07/01/T6GORBARANAIPL2TONKUM775KE/?utm_source=naver&utm_medium=original&utm_campaign=)
+
 [July 1st 2024: Metro.co.uk](https://metro.co.uk/2024/07/01/worst-paper-paper-cuts-revealed-can-even-slice-chicken-21139872/)
 
 [Jun 28th 2024: New Scientist](https://www.newscientist.com/article/2437150-physicists-determined-the-paper-most-likely-to-give-you-a-paper-cut/)
