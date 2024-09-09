@@ -68,8 +68,6 @@ Kaare H. Jensen, Department of Physics, Technical University of Denmark
 Email: khjensen@fysik.dtu.dk 
 Phone: +45 2231 5241
 
-
-
 ## Press kit
 Please access the preprint, images, and videos [here](PressKit).
 
@@ -79,3 +77,6 @@ Please access the preprint, images, and videos [here](PressKit).
 - [3] Arnbjerg-Nielsen S. F., Biviano M. D., & Jensen, K. H., Competition between slicing and buckling underlies the erratic nature of paper cuts, Physical Review E (2024) [accepted preprint](PressKit/manuscript.pdf) [journal](http://journals.aps.org/pre/accepted/aa072Kc5A071ae0708c39799a466b7d26e3ac2a0e). 
 
 <img src="img/papermachete2.JPG" width="400"> <img  src="img/cutting.gif" width="150" ALIGN=”right”>
+
+## Acknowledgements
+We are grateful to Norwid Behrnd for providing additional examples of press coverage.
