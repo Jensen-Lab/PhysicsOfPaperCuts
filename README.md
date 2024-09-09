@@ -10,7 +10,13 @@ Finally, we developed the _Papermachete_, a cost-effective paper-based scalpel b
 ## Press coverage
 [September 6th 2024: Weekendavisen](https://www.weekendavisen.dk/ideer/det-farligste-papir)
 
+[September 4th 2024: Radio SRF 1, Kultur aktuell](https://www.srf.ch/wissen/mensch/verflixte-schnittverletzungen-warum-papier-schneidet)
+
 [September 1st 2024: Physics World](https://physicsworld.com/a/researchers-cut-to-the-chase-on-the-physics-of-paper-cuts/)
+
+[August 29th 2024: GEO Magazine](https://www.geo.de/wissen/forschung-und-technik/kuriose-wissenschaft--welches-papier-birgt-das-groesste-schnitt-risiko--35019300.html)
+
+[August 28th 2024: Der Spiegel](https://www.spiegel.de/wissenschaft/mensch/mit-welchem-papier-man-sich-am-ehesten-in-den-finger-schneidet-a-06ee99cb-c833-47ff-806f-d06854aad74e)
 
 [August 28th 2024: Nature Briefings (Podcast)](https://www.nature.com/articles/d41586-024-02806-7)
 
@@ -23,6 +29,8 @@ Finally, we developed the _Papermachete_, a cost-effective paper-based scalpel b
 [August 27th 2024: Popular Science](https://www.popsci.com/science/paper-cut-study/)
 
 [August 26th 2024: Daily Mail](https://www.dailymail.co.uk/sciencetech/article-13739439/Scientists-reveal-paper-painful-cuts.html)
+
+[August 23rd 2024: France Info](https://www.francetvinfo.fr/replay-radio/le-billet-vert/des-chercheurs-danois-se-sont-penches-sur-la-dangerosite-des-papiers-qui-coupent_6665652.html)
 
 [August 23rd 2024: Nature, Research Highlights](https://www.nature.com/articles/d41586-024-02297-6)
 
