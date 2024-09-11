@@ -89,4 +89,4 @@ Please access the preprint, images, and videos [here](PressKit).
 <img src="img/papermachete2.JPG" width="400"> <img  src="img/cutting.gif" width="150" ALIGN=”right”>
 
 ## Acknowledgements
-We are grateful to Norwid Behrnd for providing additional examples of press coverage.
+We are grateful to Norwid Behrnd and Keunhwan Park for providing additional examples of press coverage.
