@@ -8,6 +8,10 @@ Our experiments revealed that competition between slicing and buckling underlies
 Finally, we developed the _Papermachete_, a cost-effective paper-based scalpel based on our results. It uses scrap paper blades and can easily cut into vegetables and meat. To 3D print your own, use the files accessible [here](https://github.com/Jensen-Lab/PhysicsOfPaperCuts/tree/main/3DPrint).
 
 ## Press coverage
+[October 7th 2024: Chemical and Engineering News](https://cen.acs.org/analytical-chemistry/art-&-artifacts/Stonehenge-secrets-paper-cut-physics/102/i31)
+
+[September 13th 2024: Youtube, Videnskab.dk](https://www.youtube.com/shorts/3UR5LIE6cos)
+
 [September 11th 2024: Hunan TV](https://m.mgtv.com/b/607797/21699917.html)
 
 [September 10th 2024: ZDF (Facebook)](https://fb.watch/uHGq_GUBvt/)
@@ -45,6 +49,8 @@ Finally, we developed the _Papermachete_, a cost-effective paper-based scalpel b
 [August 16th 2024: Ingeniøren](https://ing.dk/artikel/vaerd-vide-pas-paa-ingenioeren-kan-let-lave-snitsaar-i-din-finger)
 
 [August 12th 2024: ABC Melbourne, Drive](https://www.abc.net.au/listen/programs/melbourne-drive/drive/104188682)
+
+[August 7th 2024: Videnskab.dk](https://videnskab.dk/krop-sundhed/det-var-svaert-at-finde-frivillige-danske-forskere-finder-den-type-papir-der-giver-de-vaerste-papercuts/) [Youtube, September 13th 2024](https://www.youtube.com/shorts/3UR5LIE6cos)
 
 [August 6th 2024: The Morning Show](https://www.facebook.com/watch/?v=430936466599208)
 
