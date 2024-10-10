@@ -50,7 +50,7 @@ Finally, we developed the _Papermachete_, a cost-effective paper-based scalpel b
 
 [August 12th 2024: ABC Melbourne, Drive](https://www.abc.net.au/listen/programs/melbourne-drive/drive/104188682)
 
-[August 7th 2024: Videnskab.dk](https://videnskab.dk/krop-sundhed/det-var-svaert-at-finde-frivillige-danske-forskere-finder-den-type-papir-der-giver-de-vaerste-papercuts/) [Youtube, September 13th 2024](https://www.youtube.com/shorts/3UR5LIE6cos)
+[August 7th 2024: Videnskab.dk](https://videnskab.dk/krop-sundhed/det-var-svaert-at-finde-frivillige-danske-forskere-finder-den-type-papir-der-giver-de-vaerste-papercuts/) ([Youtube, September 13th 2024](https://www.youtube.com/shorts/3UR5LIE6cos))
 
 [August 6th 2024: The Morning Show](https://www.facebook.com/watch/?v=430936466599208)
 
